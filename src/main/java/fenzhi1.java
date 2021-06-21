@@ -1,0 +1,2 @@
+public class fenzhi1 {
+}
