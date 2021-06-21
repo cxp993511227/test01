@@ -1,0 +1,2 @@
+public class oo {
+}
